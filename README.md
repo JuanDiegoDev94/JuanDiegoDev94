@@ -58,7 +58,7 @@ Plataforma para visibilizar emprendimientos colombianos y facilitar alianzas con
 
 ### 📫 ¿Cómo contactarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-pe%C3%B1a-ceferino-51a4261b0/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandiegopenaceferino@gmail.com)
 
 ---
